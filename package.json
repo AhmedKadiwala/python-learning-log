@@ -1,0 +1,26 @@
+{
+  "name": "python-learning-log",
+  "version": "1.0.0",
+  "description": "Welcome to my personal Python learning repository! This repo contains all my practice exercises, code snippets, and mini-projects based on **The Ultimate Python Handbook** — a beginner-friendly guide to learning Python programming.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedKadiwala/python-learning-log.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedKadiwala/python-learning-log/issues"
+  },
+  "homepage": "https://github.com/AhmedKadiwala/python-learning-log#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.28.0"
+  }
+}
